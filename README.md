@@ -19,16 +19,7 @@
 
 # 🏠 Home Screen
 
-<div align="center">
 
-| 📱 Apps | 📱 Apps | 📱 Apps | 📱 Apps |
-|----------|----------|----------|----------|
-| <a href="#wave-about-me">👋<br>About</a> | <a href="#rocket-projects">📂<br>Projects</a> | <a href="#computer-tech-stack">💻<br>Skills</a> | <a href="#trophy-achievements">🏆<br>Awards</a> |
-| <a href="#page_facing_up-resume">📜<br>Resume</a> | <a href="#mail-contact">📧<br>Contact</a> | <a href="#rocket-currently-learning">🚀<br>Learning</a> | <a href="#bar_chart-github-dashboard">📈<br>Stats</a> |
-
-</div>
-
----
 
 # 👋 About Me
 
